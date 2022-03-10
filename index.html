@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+
+    <meta charset="utf-8" />
+    <title>Hello</title>
+   
+    <!-- Import the webpage's stylesheet -->
+    
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- Import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <h1 class="title">Light and Sound Memomry Game</h1>
+<!-- Instructions on using this project -->
+        <div class="instructions">
+          <h2>
+            Using this project
+          </h2>
+          <p>
+            Welcome to the game! repeat back the pattern by pressing
+          </p>
+          <button id="startBtn" onclick="startGame()">
+            Start
+          </button>
+          
+          <button class="hidden" id ="stopBtn" onclick="stopGame()"> 
+            Stop
+            
+          </button>
+          
+          <div id = "gameButtonArea">
+            <button id = "button1" onmousedown="startTone(1)"  onclick="guess(1)" onmouseup="stopTone()" ></button>
+            <button id = "button2" onmousedown="startTone(2)" onclick="guess(2)" onmouseup="stopTone()"  ></button>
+            <button id = "button3" onmousedown="startTone(3)" onclick="guess(3)" onmouseup="stopTone()" ></button>
+            <button id = "button4" onmousedown="startTone(4)"  onclick="guess(4)" onmouseup="stopTone()" ></button>
+            <button id = "button5" onmousedown="startTone(5)"  onclick="guess(5)" onmouseup="stopTone()" ></button>
+            <button id = "button6" onmousedown="startTone(6)"  onclick="guess(6)" onmouseup="stopTone()" ></button>
+          </div>
+          
+        </div>
+      
+  
+    
+     
+  
+  </body>
+</html>
