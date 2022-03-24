@@ -3,7 +3,7 @@ codepath-prework project which is a light and sound memory game.
 gif below which quickly shows how the game works.
 <img src="http://g.recordit.co/dy4zmYGOFU.gif"><br>
 
-Task 3
+## Task 3
 What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 A challenge I encountered was time management, and this project helped me balance school work and the project; I recognized that if you care about something, you will find a way to make time for it. This project has shown how important this is to me and that anything worthwhile takes effort and dedication. I have a little experience with HTML, css, and javascript, but this project showed me how creative and powerful these tools could be, and with more practice and time, I will be able to continue to improve to better my skills. The challenges came, but my passion for coding kept me going as I made sure to make time to work on the project, study for tests, and complete my school work as my drive to improve pushed me. I overcame it by setting a schedule and time for me to work on the project so that I had dedicated time to work on the project, which also helped me stay on track to complete it. I also separated tasks for different times to keep me focused at the highest level. I have already learned so much from this pre-work project, and this project is very creative and complex with the use of git, which has helped me know how to put gifs into the GitHub readme, which I found to be very helpful as these things I have learned I will apply in the future.
 
